@@ -1,0 +1,21 @@
+[ {
+  "uid" : "cb2b7dffe8c61595",
+  "name" : "Nokari Profile",
+  "time" : {
+    "start" : 1715834913599,
+    "stop" : 1715835022769,
+    "duration" : 109170
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1dfa0b21c1eb8d00",
+  "name" : "Nokari Profile",
+  "time" : {
+    "start" : 1715834854731,
+    "stop" : 1715834909868,
+    "duration" : 55137
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

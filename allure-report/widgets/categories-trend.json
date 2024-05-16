@@ -1,0 +1,13 @@
+[ {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:8080/job/Nokari_pro/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 1
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:8080/job/Nokari_pro/2/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+} ]

@@ -1,0 +1,6 @@
+[ {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:8080/job/Nokari_pro/2/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+} ]

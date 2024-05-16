@@ -1,0 +1,14 @@
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:15 start Nokari daily update test case 
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:17 open webdiver
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:19 open URL for Nokari loging 
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:21 clicking log in button 
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:23 Entering User Name
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:25 Entering Password
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:27 Clicking loging sumbit button 
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:29 Cheking profile view if profle is  visible then click 
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:31 scrooling for employee edit button 
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:33 clicking empolyedit button
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:35 Scrolling for summit button 
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:37 clicking job profile and clear and send data 
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:39 submit job profile 
+[32mINFO    [0m D:\programming\Nokari_profile\Test_case\test_nokari.py:test_nokari.py:41 close webdriver

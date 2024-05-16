@@ -1,0 +1,734 @@
+2024-05-12 11:56:00,545 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-12 11:56:00,546 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-12 11:56:00,547 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-12 11:56:16,240 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-12 11:56:16,354 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-12 11:56:16,983 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-12 11:56:17,126 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-12 11:56:17,203 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-12 11:56:27,156 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-12 11:56:27,214 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-12 11:56:27,359 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-12 11:56:27,447 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-12 11:56:28,704 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-12 11:56:28,887 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-12 11:56:29,127 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 42 : if view profile not persent 
+2024-05-12 11:56:31,642 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-12 11:56:31,643 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-12 11:56:31,643 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-12 11:56:46,352 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-12 11:56:46,443 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-12 11:56:47,064 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-12 11:56:47,143 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-12 11:56:47,202 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-12 11:57:00,555 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-12 11:57:00,588 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-12 11:57:01,176 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-12 11:57:01,236 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-12 11:57:02,588 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-12 11:57:02,749 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-12 11:57:02,887 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 42 : if view profile not persent 
+2024-05-12 12:02:16,433 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-12 12:02:16,433 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-12 12:02:16,433 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-12 12:02:33,664 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-12 12:02:33,930 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-12 12:02:35,600 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-12 12:02:35,670 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-12 12:02:35,717 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-12 12:02:44,560 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-12 12:02:44,583 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-12 12:03:02,171 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-12 12:03:02,171 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-12 12:03:02,171 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-12 12:03:20,279 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-12 12:03:20,416 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-12 12:03:21,567 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-12 12:03:21,673 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-12 12:03:21,724 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-12 12:03:33,298 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-12 12:03:33,327 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-12 12:03:33,439 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 05:45:11,757 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 05:45:11,758 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 05:45:11,758 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 05:45:28,684 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 05:45:28,811 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 05:45:29,577 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 05:45:29,650 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 05:45:29,712 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 05:46:27,529 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 05:46:27,529 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 05:46:27,529 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 05:46:32,505 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 05:46:32,592 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 05:46:33,214 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 05:46:33,308 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 05:46:33,373 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 05:46:37,792 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 05:46:38,345 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 05:46:38,975 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 05:46:39,060 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-13 05:46:40,754 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-13 05:46:40,925 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-13 05:48:34,305 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 05:48:34,306 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 05:48:34,306 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 05:48:40,579 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 05:48:40,674 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 05:48:41,303 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 05:48:41,422 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 05:48:41,477 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 05:48:45,713 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 05:48:46,301 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 05:48:46,443 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 05:48:46,540 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-13 05:48:48,056 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-13 05:48:48,207 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-13 05:48:52,091 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 05:48:52,091 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 05:48:52,091 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 05:48:52,824 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 05:49:24,146 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 05:49:24,842 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 05:49:24,936 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 05:49:25,058 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 05:49:32,426 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 05:49:33,086 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 05:49:33,209 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 05:49:33,268 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-13 05:49:34,820 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-13 05:49:34,901 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-13 05:58:06,908 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 05:58:06,910 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 05:58:06,910 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 05:59:20,484 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 05:59:23,036 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 05:59:23,036 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 05:59:23,036 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:00:24,095 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:01:30,730 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:01:30,730 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:01:30,730 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:02:46,635 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:02:48,681 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:02:48,682 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:02:48,682 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:03:49,492 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:04:41,349 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:04:41,351 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:04:41,351 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:05:33,153 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:05:33,290 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:05:34,013 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:05:34,197 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:05:34,241 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:06:13,409 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 44 : clicking complete profile buttong 
+2024-05-13 06:06:30,780 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:06:30,781 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:06:30,782 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:07:19,655 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:07:19,739 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:07:20,357 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:07:20,446 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:07:20,516 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:09:47,614 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:09:47,614 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:09:47,614 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:11:46,919 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:11:47,040 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:11:47,653 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:11:47,760 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:11:47,826 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:11:56,687 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 06:11:56,720 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 06:11:57,401 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 06:11:57,462 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-13 06:11:59,010 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-13 06:11:59,114 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-13 06:12:02,362 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:12:02,364 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:12:02,369 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:12:13,632 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:12:13,726 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:12:15,931 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:12:16,007 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:12:16,061 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:12:20,180 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 06:12:22,287 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 06:12:24,515 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 06:12:24,595 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-13 06:12:26,800 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-13 06:12:27,003 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-13 06:14:32,502 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:14:32,505 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:14:32,506 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:14:52,605 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:14:52,711 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:14:53,378 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:14:53,452 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:14:53,500 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:14:57,255 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 06:14:57,892 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 06:14:58,076 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 06:14:58,134 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-13 06:14:59,524 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-13 06:14:59,654 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-13 06:15:03,335 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:15:03,335 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:15:03,335 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:16:22,347 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:19:38,149 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:19:38,151 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:19:38,151 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:22:40,923 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:22:41,175 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:22:41,851 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:22:41,957 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:22:42,035 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:22:57,542 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 44 : clicking complete profile buttong 
+2024-05-13 06:23:03,207 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:23:03,207 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:23:03,207 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:23:58,706 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:23:58,841 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:23:59,513 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:23:59,602 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:23:59,646 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:24:40,676 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 06:24:44,897 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 06:24:45,029 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 06:24:45,092 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-13 06:24:46,481 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-13 06:24:46,593 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-13 06:25:08,715 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:25:08,716 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:25:08,716 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:25:43,951 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:25:44,060 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:25:44,708 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:25:44,795 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:25:44,852 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:26:19,280 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 06:26:19,881 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 06:26:20,027 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 06:26:20,137 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-13 06:26:22,351 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-13 06:26:22,851 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-13 06:26:25,300 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:26:25,300 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:26:25,300 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:26:26,478 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:27:08,294 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:29:27,257 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:29:27,258 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:29:27,258 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:30:04,575 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:30:04,701 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:30:06,867 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:30:06,957 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:30:07,005 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:30:36,713 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 06:30:37,251 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 06:30:54,560 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:30:54,561 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:30:54,561 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:31:28,550 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:31:28,662 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:31:29,832 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:31:29,910 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:31:29,984 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:31:37,768 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 06:31:40,848 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 06:31:41,472 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 06:33:05,495 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:33:05,496 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:33:05,496 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:33:45,831 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:33:46,040 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:34:04,161 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:34:04,161 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:34:04,161 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:34:55,525 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:34:55,613 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:34:56,231 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:34:56,309 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:34:56,365 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:35:22,269 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 06:35:22,299 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 06:36:09,567 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:36:09,567 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:36:09,567 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:36:53,324 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:36:53,443 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:36:54,078 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:36:54,149 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:36:54,196 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:37:26,764 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 06:37:27,837 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 06:37:28,454 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 06:37:28,540 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-13 06:37:29,974 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-13 06:37:30,131 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-13 06:37:32,812 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:37:32,813 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:37:32,813 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:37:33,323 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:38:13,095 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:38:13,710 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:38:13,805 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:38:13,879 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:38:32,310 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 06:38:32,367 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 06:38:32,962 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 06:38:33,028 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-13 06:38:34,465 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-13 06:38:34,619 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-13 06:39:48,463 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:39:48,465 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:39:48,466 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:40:24,536 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:40:24,656 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:55:36,635 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:55:36,635 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:55:36,635 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:56:35,573 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:56:35,710 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:56:36,367 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:56:36,447 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:56:36,514 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:57:15,316 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 06:57:15,349 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 06:57:15,942 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 06:57:15,997 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-13 06:57:17,274 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-13 06:57:17,362 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-13 06:57:19,778 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 13 : start Nokari daily update test case 
+2024-05-13 06:57:19,779 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : open webdiver
+2024-05-13 06:57:19,779 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open URL for Nokari loging 
+2024-05-13 06:58:03,499 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : clicking log in button 
+2024-05-13 06:58:03,614 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : Entering User Name
+2024-05-13 06:58:04,247 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering Password
+2024-05-13 06:58:04,320 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Clicking loging sumbit button 
+2024-05-13 06:58:04,371 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Cheking profile view if profle is  visible then click 
+2024-05-13 06:58:21,765 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : scrooling for employee edit button 
+2024-05-13 06:58:22,364 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : clicking empolyedit button
+2024-05-13 06:58:22,966 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : Scrolling for summit button 
+2024-05-13 06:58:23,028 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : clicking job profile and clear and send data 
+2024-05-13 06:58:24,405 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : submit job profile 
+2024-05-13 06:58:24,591 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : close webdriver
+2024-05-13 07:44:19,052 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-13 07:44:19,053 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-13 07:44:19,053 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-13 07:44:26,495 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-13 07:44:26,678 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-13 07:44:27,308 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-13 07:44:27,380 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-13 07:44:27,450 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-13 07:44:35,652 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-13 07:44:35,681 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-13 07:44:36,295 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-13 07:44:36,361 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-13 07:44:37,810 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-13 07:44:37,965 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-13 07:44:43,366 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-13 07:44:43,366 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-13 07:44:43,366 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-13 07:45:00,584 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-13 07:45:00,738 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-13 07:45:01,407 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-13 07:45:01,497 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-13 07:45:01,563 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-13 07:45:17,606 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-13 07:45:18,716 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-13 07:45:18,916 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-13 07:45:19,000 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-13 07:45:20,657 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-13 07:45:20,978 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-14 08:59:07,844 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-14 08:59:07,845 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-14 08:59:07,845 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-14 08:59:15,507 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-14 08:59:15,655 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-14 08:59:16,667 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-14 08:59:16,851 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-14 08:59:16,969 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-14 08:59:25,566 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-14 08:59:26,818 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-14 08:59:27,017 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-14 08:59:27,222 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-14 08:59:28,524 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-14 08:59:28,618 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-14 08:59:33,650 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-14 08:59:33,650 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-14 08:59:33,650 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-14 08:59:46,104 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-14 08:59:46,229 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-14 08:59:46,920 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-14 08:59:47,014 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-14 08:59:47,069 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-14 08:59:54,567 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-14 08:59:54,603 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-14 08:59:55,213 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-14 08:59:55,266 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-14 08:59:56,597 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-14 08:59:56,680 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-15 06:54:11,672 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-15 06:54:11,677 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-15 06:54:11,677 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-15 06:54:24,483 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-15 06:54:24,627 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-15 06:54:25,389 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-15 06:54:25,479 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-15 06:54:25,559 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-15 06:54:31,914 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-15 06:54:32,464 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-15 06:54:33,147 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-15 06:54:33,220 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-15 06:54:34,596 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-15 06:54:34,715 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-15 06:54:37,613 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-15 06:54:37,614 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-15 06:54:37,614 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-15 06:54:50,269 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-15 06:54:50,392 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-15 06:54:51,042 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-15 06:54:51,142 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-15 06:54:51,207 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-15 06:55:04,462 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-15 06:55:08,114 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-15 06:55:08,273 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-15 06:55:08,437 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-15 06:55:09,933 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-15 06:55:10,057 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-15 09:27:19,635 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-15 09:27:19,636 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-15 09:27:19,636 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-15 09:27:45,385 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-15 09:27:45,540 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-15 09:27:46,233 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-15 09:27:46,334 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-15 09:27:46,396 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-15 09:28:04,330 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-15 09:28:04,371 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-15 09:28:04,503 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-15 09:28:04,578 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-15 09:28:05,956 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-15 09:28:06,132 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-15 09:28:08,782 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-15 09:28:08,782 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-15 09:28:08,782 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-15 09:28:20,302 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-15 09:28:20,422 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-15 09:28:21,082 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-15 09:28:21,165 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-15 09:28:21,235 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-15 09:28:28,326 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-15 09:28:28,368 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-15 09:28:29,030 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-15 09:28:29,102 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-15 09:28:30,420 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-15 09:28:30,564 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-15 14:17:39,907 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-15 14:17:39,911 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-15 14:17:39,911 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-15 14:17:48,670 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-15 14:17:48,801 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-15 14:17:49,542 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-15 14:17:49,642 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-15 14:17:49,719 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-15 14:17:57,319 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-15 14:17:58,420 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-15 14:17:58,559 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-15 14:17:58,618 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-15 14:17:59,940 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-15 14:18:00,077 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-15 14:18:02,321 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-15 14:18:02,322 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-15 14:18:02,322 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-15 14:18:02,901 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-15 14:18:15,279 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-15 14:18:15,994 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-15 14:18:16,168 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-15 14:18:16,234 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-15 14:18:22,794 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-15 14:18:23,885 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-15 14:18:24,024 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-15 14:18:24,081 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-15 14:18:25,637 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-15 14:18:25,794 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-15 16:45:59,699 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-15 16:45:59,700 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-15 16:45:59,700 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-15 16:46:13,287 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-15 16:46:13,477 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-15 16:46:14,192 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-15 16:46:14,400 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-15 16:46:14,594 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-15 16:46:26,017 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-15 16:46:26,575 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-15 16:46:28,749 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-15 16:46:29,221 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-15 16:46:32,230 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-15 16:46:32,374 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-15 16:46:35,154 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-15 16:46:35,155 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-15 16:46:35,155 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-15 16:46:42,165 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-15 16:46:42,359 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-15 16:46:43,050 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-15 16:46:43,263 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-15 16:46:43,359 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-15 16:46:49,658 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-15 16:46:51,496 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-15 16:46:52,290 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-15 16:54:16,962 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-15 16:54:16,963 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-15 16:54:16,963 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-15 16:54:28,761 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-15 16:54:28,878 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-15 16:54:29,721 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-15 16:54:29,811 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-15 16:54:29,867 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-15 16:54:39,397 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-15 16:54:39,453 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-15 16:54:39,562 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-15 16:54:39,622 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-15 16:54:41,020 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-15 16:54:41,196 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-15 16:54:45,102 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-15 16:54:45,103 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-15 16:54:45,103 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-15 16:55:03,878 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-15 16:55:03,998 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-15 16:55:04,841 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-15 16:55:05,013 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-15 16:55:05,131 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-15 16:55:11,326 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-15 16:55:12,488 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-15 16:55:13,104 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-15 16:55:13,208 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-15 16:55:14,714 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-15 16:55:14,893 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-16 06:40:26,091 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-16 06:40:26,092 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-16 06:40:26,092 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-16 06:40:29,000 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-16 06:40:33,556 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-16 06:40:33,556 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-16 06:40:33,556 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-16 06:40:38,227 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-16 06:41:19,942 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-16 06:41:19,950 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-16 06:41:19,950 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-16 06:41:20,636 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-16 07:19:11,497 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-16 07:19:11,502 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-16 07:19:11,502 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-16 07:19:38,508 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-16 07:19:38,508 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-16 07:19:38,508 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-16 07:20:53,317 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-16 07:21:30,606 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-16 07:21:30,606 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-16 07:21:30,606 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-16 07:21:34,184 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-16 07:21:34,184 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-16 07:21:34,184 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-16 07:24:31,854 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-16 07:24:31,854 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-16 07:24:31,854 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-16 07:25:02,798 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-16 07:25:02,954 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-16 07:25:03,805 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-16 07:25:03,915 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-16 07:25:03,989 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-16 07:25:17,232 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-16 07:25:17,315 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-16 07:25:17,462 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-16 07:25:17,527 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-16 07:25:19,039 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-16 07:25:19,207 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-16 07:25:21,576 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 15 : start Nokari daily update test case 
+2024-05-16 07:25:21,576 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 17 : open webdiver
+2024-05-16 07:25:21,576 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 19 : open URL for Nokari loging 
+2024-05-16 07:25:48,234 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 21 : clicking log in button 
+2024-05-16 07:25:48,396 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 23 : Entering User Name
+2024-05-16 07:25:49,096 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 25 : Entering Password
+2024-05-16 07:25:49,198 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 27 : Clicking loging sumbit button 
+2024-05-16 07:25:49,275 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 29 : Cheking profile view if profle is  visible then click 
+2024-05-16 07:26:07,780 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 31 : scrooling for employee edit button 
+2024-05-16 07:26:07,843 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 33 : clicking empolyedit button
+2024-05-16 07:26:07,965 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 35 : Scrolling for summit button 
+2024-05-16 07:26:08,097 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 37 : clicking job profile and clear and send data 
+2024-05-16 07:26:09,568 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 39 : submit job profile 
+2024-05-16 07:26:09,723 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 41 : close webdriver
+2024-05-16 07:49:30,152 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 07:49:30,153 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 07:49:30,154 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 07:52:20,086 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 07:52:22,836 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 07:52:22,837 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 07:52:22,837 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 07:53:05,879 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 07:53:06,080 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 32 : Entering User Name
+2024-05-16 07:53:06,768 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 34 : Entering Password
+2024-05-16 07:53:06,892 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 36 : Clicking loging sumbit button 
+2024-05-16 07:53:06,976 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 38 : Cheking profile view if profle is  visible then click 
+2024-05-16 07:54:08,607 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 07:54:08,607 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 07:54:08,607 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 07:54:09,673 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 07:54:32,697 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 32 : Entering User Name
+2024-05-16 07:54:33,353 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 34 : Entering Password
+2024-05-16 07:54:33,440 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 36 : Clicking loging sumbit button 
+2024-05-16 07:54:33,517 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 38 : Cheking profile view if profle is  visible then click 
+2024-05-16 07:54:47,599 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 40 : scrooling for employee edit button 
+2024-05-16 07:54:47,643 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 42 : clicking empolyedit button
+2024-05-16 07:54:48,301 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 44 : Scrolling for summit button 
+2024-05-16 07:54:48,360 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 46 : clicking job profile and clear and send data 
+2024-05-16 07:54:49,912 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 48 : submit job profile 
+2024-05-16 07:54:50,523 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 52 : close webdriver
+2024-05-16 07:54:54,529 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 07:54:54,529 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 07:54:54,530 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 07:55:31,248 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 07:55:31,401 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 32 : Entering User Name
+2024-05-16 07:55:32,152 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 34 : Entering Password
+2024-05-16 07:55:32,244 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 36 : Clicking loging sumbit button 
+2024-05-16 07:55:32,349 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 38 : Cheking profile view if profle is  visible then click 
+2024-05-16 07:56:51,636 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 07:56:51,638 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 07:56:51,638 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 07:59:24,998 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 07:59:29,938 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 07:59:29,938 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 07:59:29,938 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 07:59:30,819 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 08:00:29,200 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 08:00:29,200 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 08:00:29,200 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 08:01:15,203 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 08:01:15,339 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 32 : Entering User Name
+2024-05-16 08:01:16,036 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 34 : Entering Password
+2024-05-16 08:01:16,139 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 36 : Clicking loging sumbit button 
+2024-05-16 08:01:16,215 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 38 : Cheking profile view if profle is  visible then click 
+2024-05-16 08:01:22,174 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 40 : scrooling for employee edit button 
+2024-05-16 08:01:22,216 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 42 : clicking empolyedit button
+2024-05-16 08:01:22,901 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 44 : Scrolling for summit button 
+2024-05-16 08:01:22,966 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 46 : clicking job profile and clear and send data 
+2024-05-16 08:01:24,925 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 48 : submit job profile 
+2024-05-16 08:01:25,428 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 52 : close webdriver
+2024-05-16 08:01:28,289 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 08:01:28,290 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 08:01:28,290 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 08:01:36,508 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 08:01:36,659 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 32 : Entering User Name
+2024-05-16 08:01:37,363 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 34 : Entering Password
+2024-05-16 08:01:37,490 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 36 : Clicking loging sumbit button 
+2024-05-16 08:01:37,619 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 38 : Cheking profile view if profle is  visible then click 
+2024-05-16 08:01:43,641 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 40 : scrooling for employee edit button 
+2024-05-16 08:01:44,448 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 42 : clicking empolyedit button
+2024-05-16 08:01:44,568 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 44 : Scrolling for summit button 
+2024-05-16 08:01:44,656 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 46 : clicking job profile and clear and send data 
+2024-05-16 08:01:46,146 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 48 : submit job profile 
+2024-05-16 08:01:46,720 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 52 : close webdriver
+2024-05-16 08:17:43,193 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 08:17:43,194 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 08:17:43,194 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 08:17:53,226 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 08:17:53,375 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 32 : Entering User Name
+2024-05-16 08:17:54,629 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 34 : Entering Password
+2024-05-16 08:17:54,733 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 36 : Clicking loging sumbit button 
+2024-05-16 08:17:54,798 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 38 : Cheking profile view if profle is  visible then click 
+2024-05-16 08:18:07,726 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 40 : scrooling for employee edit button 
+2024-05-16 08:18:09,813 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 42 : clicking empolyedit button
+2024-05-16 08:18:09,939 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 44 : Scrolling for summit button 
+2024-05-16 08:18:18,842 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 46 : clicking job profile and clear and send data 
+2024-05-16 08:18:20,289 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 48 : submit job profile 
+2024-05-16 08:18:20,751 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 52 : close webdriver
+2024-05-16 08:18:22,903 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 08:18:22,903 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 08:18:22,903 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 08:18:24,260 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 08:18:47,537 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 32 : Entering User Name
+2024-05-16 08:18:49,828 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 34 : Entering Password
+2024-05-16 08:18:49,936 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 36 : Clicking loging sumbit button 
+2024-05-16 08:18:50,039 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 38 : Cheking profile view if profle is  visible then click 
+2024-05-16 08:18:58,491 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 40 : scrooling for employee edit button 
+2024-05-16 08:19:00,594 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 42 : clicking empolyedit button
+2024-05-16 08:19:01,281 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 44 : Scrolling for summit button 
+2024-05-16 08:21:59,463 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 08:21:59,465 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 08:21:59,467 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 08:22:20,324 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 08:22:20,485 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 32 : Entering User Name
+2024-05-16 08:22:21,204 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 34 : Entering Password
+2024-05-16 08:22:21,475 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 36 : Clicking loging sumbit button 
+2024-05-16 08:22:21,656 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 38 : Cheking profile view if profle is  visible then click 
+2024-05-16 08:22:39,370 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 40 : scrooling for employee edit button 
+2024-05-16 08:22:39,418 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 42 : clicking empolyedit button
+2024-05-16 08:22:40,140 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 44 : Scrolling for summit button 
+2024-05-16 08:22:40,306 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 46 : clicking job profile and clear and send data 
+2024-05-16 08:22:42,137 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 48 : submit job profile 
+2024-05-16 08:22:42,766 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 52 : close webdriver
+2024-05-16 08:22:45,008 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 08:22:45,008 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 08:22:45,008 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 08:23:09,416 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 08:23:09,605 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 32 : Entering User Name
+2024-05-16 08:23:10,286 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 34 : Entering Password
+2024-05-16 08:23:10,402 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 36 : Clicking loging sumbit button 
+2024-05-16 08:23:10,540 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 38 : Cheking profile view if profle is  visible then click 
+2024-05-16 08:23:27,347 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 40 : scrooling for employee edit button 
+2024-05-16 08:23:27,380 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 42 : clicking empolyedit button
+2024-05-16 08:23:27,980 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 44 : Scrolling for summit button 
+2024-05-16 08:23:28,046 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 46 : clicking job profile and clear and send data 
+2024-05-16 08:23:29,359 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 48 : submit job profile 
+2024-05-16 08:23:29,840 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 52 : close webdriver
+2024-05-16 08:31:31,569 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 08:31:31,844 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 08:31:31,849 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 08:31:47,734 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 08:31:47,945 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 32 : Entering User Name
+2024-05-16 08:31:48,665 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 34 : Entering Password
+2024-05-16 08:31:48,780 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 36 : Clicking loging sumbit button 
+2024-05-16 08:31:48,840 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 38 : Cheking profile view if profle is  visible then click 
+2024-05-16 08:32:02,313 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 40 : scrooling for employee edit button 
+2024-05-16 08:32:02,346 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 42 : clicking empolyedit button
+2024-05-16 08:32:02,933 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 44 : Scrolling for summit button 
+2024-05-16 08:32:03,026 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 46 : clicking job profile and clear and send data 
+2024-05-16 08:32:04,700 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 48 : submit job profile 
+2024-05-16 08:32:05,201 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 52 : close webdriver
+2024-05-16 08:32:07,068 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 08:32:07,068 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 08:32:07,068 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 08:32:23,384 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 08:32:23,547 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 32 : Entering User Name
+2024-05-16 08:32:24,256 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 34 : Entering Password
+2024-05-16 08:32:24,341 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 36 : Clicking loging sumbit button 
+2024-05-16 08:32:24,394 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 38 : Cheking profile view if profle is  visible then click 
+2024-05-16 08:32:47,663 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 40 : scrooling for employee edit button 
+2024-05-16 08:32:47,711 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 42 : clicking empolyedit button
+2024-05-16 08:32:48,360 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 44 : Scrolling for summit button 
+2024-05-16 08:32:48,415 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 46 : clicking job profile and clear and send data 
+2024-05-16 08:32:50,050 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 48 : submit job profile 
+2024-05-16 08:32:50,713 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 52 : close webdriver
+2024-05-16 10:17:34,730 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 10:17:34,732 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 10:17:34,749 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 10:18:29,833 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 10:18:33,599 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 24 : start Nokari daily update test case 
+2024-05-16 10:18:33,600 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 26 : open webdiver
+2024-05-16 10:18:33,600 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 28 : open URL for Nokari loging 
+2024-05-16 10:19:45,541 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 30 : clicking log in button 
+2024-05-16 10:19:45,718 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 32 : Entering User Name
+2024-05-16 10:19:46,447 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 34 : Entering Password
+2024-05-16 10:19:46,635 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 36 : Clicking loging sumbit button 
+2024-05-16 10:19:47,102 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 38 : Cheking profile view if profle is  visible then click 
+2024-05-16 10:20:13,897 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 40 : scrooling for employee edit button 
+2024-05-16 10:20:13,937 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 42 : clicking empolyedit button
+2024-05-16 10:20:16,873 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 44 : Scrolling for summit button 
+2024-05-16 10:20:17,675 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 46 : clicking job profile and clear and send data 
+2024-05-16 10:20:20,064 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 48 : submit job profile 
+2024-05-16 10:20:20,610 : test_nokari.py : D:\programming\Nokari_profile\Test_case\test_nokari.py : test_nokari_log1 : 52 : close webdriver

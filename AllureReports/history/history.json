@@ -1,0 +1,42 @@
+{
+  "dfdc701a775a5a8db2c27949a3db7ab4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7a2d5d87914d23f",
+      "reportUrl" : "http://localhost:8080/job/Nokari_pro/2/allure/#testresult/d7a2d5d87914d23f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715827919462,
+        "stop" : 1715827963033,
+        "duration" : 43571
+      }
+    } ]
+  },
+  "228fa9436dbaa5505545a1305badf5eb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1dcc3ac7b0e30f81",
+      "reportUrl" : "http://localhost:8080/job/Nokari_pro/2/allure/#testresult/1dcc3ac7b0e30f81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715827965008,
+        "stop" : 1715828009987,
+        "duration" : 44979
+      }
+    } ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "uid" : "8cf2d2bc94a20b14",
+  "name" : "Nokari Profile",
+  "fullName" : "Test_case.test_nokari.Test_Nokari_login#test_nokari_log1",
+  "historyId" : "dfdc701a775a5a8db2c27949a3db7ab4",
+  "time" : {
+    "start" : 1715827919462,
+    "stop" : 1715827963033,
+    "duration" : 43571
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "EnterData",
+    "time" : {
+      "start" : 1715827919457,
+      "stop" : 1715827919458,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1715827917354,
+      "stop" : 1715827919457,
+      "duration" : 2103
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b8eefb2fa04bb169",
+      "name" : "Nokari_t_001",
+      "source" : "b8eefb2fa04bb169.png",
+      "type" : "image/png",
+      "size" : 120778
+    }, {
+      "uid" : "e78a15fdf33017d1",
+      "name" : "log",
+      "source" : "e78a15fdf33017d1.txt",
+      "type" : "text/plain",
+      "size" : 1547
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "as_id",
+    "value" : "test nokari log1"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "Nokari Profile Auto Update"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_nokari"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Nokari_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CT5ISU8"
+  }, {
+    "name" : "thread",
+    "value" : "13916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_case.test_nokari"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "EnterData",
+    "value" : "('tanveeralam7520@gmail.com', 'Talam@786', 'I have 3+years of experience as a Quality Assurance Engineer, I have expertise in testing and involved in Manual testing, ETL testing, Automation testing, Database testing, Functional\\xa0testing.Rest api testing using postman ,Api automation using python pytest')"
+  } ],
+  "links" : [ {
+    "name" : "https://www.naukri.com/",
+    "url" : "https://www.naukri.com/",
+    "type" : "link"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8cf2d2bc94a20b14.json",
+  "parameterValues" : [ "('tanveeralam7520@gmail.com', 'Talam@786', 'I have 3+years of experience as a Quality Assurance Engineer, I have expertise in testing and involved in Manual testing, ETL testing, Automation testing, Database testing, Functional\\xa0testing.Rest api testing using postman ,Api automation using python pytest')" ]
+}

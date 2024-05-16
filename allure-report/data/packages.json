@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Test_case.test_nokari",
+    "children" : [ {
+      "name" : "Nokari Profile",
+      "uid" : "1dfa0b21c1eb8d00",
+      "parentUid" : "bb3fce843db2ee170b7a31527b883f90",
+      "status" : "broken",
+      "time" : {
+        "start" : 1715834854731,
+        "stop" : 1715834909868,
+        "duration" : 55137
+      },
+      "flaky" : false,
+      "parameters" : [ "('tanveeralam7520@gmail.com', 'Talam@786', 'I have 3+years of experience as a Quality Assurance Engineer, I have expertise in testing and involved in Manual testing, ETL testing, Automation testing, Database testing, Functional\\xa0testing.Rest api testing using postman ,Api automation using python pytest')" ]
+    }, {
+      "name" : "Nokari Profile",
+      "uid" : "cb2b7dffe8c61595",
+      "parentUid" : "bb3fce843db2ee170b7a31527b883f90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715834913599,
+        "stop" : 1715835022769,
+        "duration" : 109170
+      },
+      "flaky" : false,
+      "parameters" : [ "('tanveeralam5445@gmail.com', 'Talam@786786', 'I have 3+years of experience as a Quality Assurance Engineer, I have expertise in testing and involved in Manual testing, ETL testing, Automation testing, Database testing, Functional\\xa0testing.Rest api testing using postman ,Api automation using python pytest')" ]
+    } ],
+    "uid" : "Test_case.test_nokari"
+  } ]
+}
